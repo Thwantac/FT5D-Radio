@@ -1,0 +1,34 @@
+Memory,Name,RX_MHz,Mode,Step_kHz,Bank,Use,Source,Status
+21,DRW DEL,126.800,AM,25,1 AIR DRW,Darwin Delivery (airways clearance),ERSA YPDN 3 Sep 2026,In radio already (ChatGPT plan)
+22,DRW ATIS,128.250,AM,25,1 AIR DRW,Darwin ATIS (weather/runway loop),ERSA YPDN 3 Sep 2026,In radio already
+23,DRW GND1,121.800,AM,25,1 AIR DRW,Darwin Ground primary,ERSA YPDN 3 Sep 2026,In radio already
+24,DRW GND2,119.550,AM,25,1 AIR DRW,Darwin Ground secondary / vehicles primary,ERSA YPDN 3 Sep 2026,In radio already
+25,DRW TWR,133.100,AM,25,1 AIR DRW,Darwin Tower,ERSA YPDN 3 Sep 2026,In radio already
+26,DRW DEP,123.000,AM,25,1 AIR DRW,Darwin Departures (Approach),ERSA YPDN 3 Sep 2026,In radio already
+27,DRW APP E,125.200,AM,25,1 AIR DRW,Darwin Approach East/Departures,ERSA YPDN 3 Sep 2026,Check it's there
+28,DRW APP W,134.100,AM,25,1 AIR DRW,Darwin Approach West/Departures,ERSA YPDN 3 Sep 2026,In radio already
+29,BRIS CTR,118.150,AM,25,1 AIR DRW,Brisbane Centre (FIA listed for Darwin),ERSA YPDN 3 Sep 2026,In radio already
+30,DRW TIBA,126.350,AM,25,1 AIR DRW,Emergency TIBA if Darwin ATC evacuated (rarely used),ERSA YPDN 3 Sep 2026,In radio already
+31,DRW FIRE,131.000,AM,25,1 AIR DRW,Airport fire/rescue (from old ChatGPT list),NOT verified,Unverified - optional
+32,EMERG,121.500,AM,25,1 AIR DRW,International aviation emergency,ICAO standard (not on Darwin ERSA page),New
+33,EMKAYTEE,127.100,AM,25,1 AIR DRW,Emkaytee airfield CTAF,CASA Stay OnTrack Darwin (2023),New - check current ERSA
+34,BATHURST,126.500,AM,25,1 AIR DRW,Bathurst Island CTAF,CASA Stay OnTrack Darwin (2023),New - check current ERSA
+35,DELISSA,126.700,AM,25,1 AIR DRW,Delissaville CTAF,CASA Stay OnTrack Darwin (2023),New - check current ERSA
+41,MAR 06,156.300,FM,12.5,2 MARINE DRW,Ch06 SAR / Frances Bay lock,ACMA; Darwin Port,In radio already
+42,MAR 08,156.400,FM,12.5,2 MARINE DRW,Ch08 Tipperary Waters lock,ACMA; Darwin Port,In radio already
+43,MAR 09,156.450,FM,12.5,2 MARINE DRW,Ch09 Darwin LNG Wickham Point,ACMA; Darwin Port,In radio already
+44,MAR 10,156.500,FM,12.5,2 MARINE DRW,Ch10 Darwin Harbour Control (main port channel),ACMA; Darwin Port,In radio already
+45,MAR 12,156.600,FM,12.5,2 MARINE DRW,Ch12 Tugs,ACMA; Darwin Port,In radio already
+46,MAR 13,156.650,FM,12.5,2 MARINE DRW,Ch13 Tugs,ACMA; Darwin Port,In radio already
+47,MAR 14,156.700,FM,12.5,2 MARINE DRW,Ch14 Navy port working,ACMA; Darwin Port,In radio already
+48,DISTRESS,156.800,FM,12.5,2 MARINE DRW,Ch16 Distress/safety/calling,ACMA; Darwin Port; NT Gov,In radio already
+49,MAR 67,156.375,FM,12.5,2 MARINE DRW,Ch67 Weather & notices to mariners,ACMA; Darwin Port; NT Gov,In radio already
+50,MAR 72,156.625,FM,12.5,2 MARINE DRW,Ch72 Ship-to-ship / Customs / Quarantine,ACMA; Darwin Port,In radio already
+51,MAR 73,156.675,FM,12.5,2 MARINE DRW,Ch73 Yacht racing / regattas,ACMA; Darwin Port,In radio already
+52,MAR 77,156.875,FM,12.5,2 MARINE DRW,Ch77 Boat-to-boat (rec/fishing),ACMA,In radio already
+53,MAR 11,156.550,FM,12.5,2 MARINE DRW,Ch11 Cullen Bay lock,ACMA; Darwin Port,New
+54,MAR 68,156.425,FM,12.5,2 MARINE DRW,Ch68 Bayview Marina lock,ACMA; Darwin Port,New
+55,MAR 17,156.850,FM,12.5,2 MARINE DRW,Ch17 Hudson Creek,ACMA; Darwin Port,New
+56,MAR 69,156.475,FM,12.5,2 MARINE DRW,Ch69 Navy port working,Darwin Port; FT5D manual marine table,New
+57,MAR 74,156.725,FM,12.5,2 MARINE DRW,Ch74 Darwin Marine Supply Base,ACMA; Darwin Port,New
+58,MAR 88,157.425,FM,12.5,2 MARINE DRW,Ch88 INPEX LNG Bladin Point,ACMA; Darwin Port,New

@@ -1,0 +1,184 @@
+memory,name,MHz,mode,duplex,offset_MHz,tone_Hz,banks,what it is,verified,source
+10,AIR EMERGENCY,121.500,AM,simplex,,,DARWIN AIR + BRISBANE AIR + MELBOURNE AIR + NELSON AIR + SINGAPORE AIR + DARWIN EMERGENCY,International air distress,Y,ICAO international aeronautical emergency 121.5; ERSA
+16,CH16 DISTRESS,156.800,FM,simplex,,,DARWIN MARINE + BRISBANE MARINE + MELBOURNE MARINE + NELSON MARINE + SINGAPORE MARINE + DARWIN EMERGENCY,Marine distress and calling,Y,ACMA VHF maritime mobile band channel allocations
+20,HOT 100,100.100,WFM,simplex,,,RADIO,"FM broadcast, Darwin",Y,NT Gov SecureNT 'Listen to radio updates' station list (fetched 2 Nov 2026)
+21,ABC NEWS,102.500,WFM,simplex,,,RADIO,"FM broadcast, Darwin",Y,ABC NT frequency data; NT Gov SecureNT radio list (2 Nov 2026)
+22,TRIPLE J,103.300,WFM,simplex,,,RADIO,"FM broadcast, Darwin",Y,ABC NT frequency data; NT Gov SecureNT radio list (2 Nov 2026)
+23,TERRITORY FM,104.100,WFM,simplex,,,RADIO,"FM broadcast, Darwin",Y,NT Gov SecureNT 'Listen to radio updates' station list (fetched 2 Nov 2026)
+24,ABC DARWIN,105.700,WFM,simplex,,,RADIO,"FM broadcast, Darwin",Y,ABC NT frequency data; NT Gov SecureNT radio list (2 Nov 2026)
+25,ABC CLASSIC,107.300,WFM,simplex,,,RADIO,"FM broadcast, Darwin",Y,ABC NT frequency data; NT Gov SecureNT radio list (2 Nov 2026)
+26,ABC RN AM,0.657,AM,simplex,,,RADIO,ABC Radio National 657 kHz AM (A-band only),Y,ABC NT frequency data; NT Gov SecureNT radio list (2 Nov 2026)
+27,MIX 104.9,104.900,WFM,simplex,,,RADIO,"FM broadcast, Darwin",Y,NT Gov SecureNT 'Listen to radio updates' station list (fetched 2 Nov 2026)
+28,97 SEVEN,97.700,WFM,simplex,,,RADIO,"Community FM, Darwin",Y,NT Gov SecureNT 'Listen to radio updates' station list (fetched 2 Nov 2026)
+29,RADIO LARRAKIA,94.500,WFM,simplex,,,RADIO,"Indigenous community FM, Darwin",Y,NT Gov SecureNT 'Listen to radio updates' station list (fetched 2 Nov 2026)
+30,TOP COUNTRY,92.300,WFM,simplex,,,RADIO,"Country music FM, Darwin",Y,NT Gov SecureNT 'Listen to radio updates' station list (fetched 2 Nov 2026)
+101,DARWIN ATIS,128.250,AM,simplex,,,DARWIN AIR,Recorded weather & runway info,Y,Airservices ERSA FAC YPDN eff 03 SEP 2026
+102,DARWIN DELIVERY,126.800,AM,simplex,,,DARWIN AIR,Clearances,Y,Airservices ERSA FAC YPDN eff 03 SEP 2026
+103,DARWIN GROUND 1,121.800,AM,simplex,,,DARWIN AIR,Taxi,Y,Airservices ERSA FAC YPDN eff 03 SEP 2026
+104,DARWIN GROUND 2,119.550,AM,simplex,,,DARWIN AIR,Taxi (2nd),Y,Airservices ERSA FAC YPDN eff 03 SEP 2026
+105,DARWIN TOWER,133.100,AM,simplex,,,DARWIN AIR,Take-off & landing,Y,Airservices ERSA FAC YPDN eff 03 SEP 2026
+106,DARWIN DEPARTURE,123.000,AM,simplex,,,DARWIN AIR,Departures,Y,Airservices ERSA FAC YPDN eff 03 SEP 2026
+107,DARWIN APPR EAST,125.200,AM,simplex,,,DARWIN AIR,Approach east,Y,Airservices ERSA FAC YPDN eff 03 SEP 2026
+108,DARWIN APPR WEST,134.100,AM,simplex,,,DARWIN AIR,Approach west,Y,Airservices ERSA FAC YPDN eff 03 SEP 2026
+109,DARWIN CENTRE,118.150,AM,simplex,,,DARWIN AIR,"Brisbane Centre, Darwin area (en route)",Y,Airservices ERSA FAC YPDN eff 03 SEP 2026
+110,RAAF TOWER,257.800,AM,simplex,,,DARWIN AIR,Darwin Tower military UHF (retransmits 133.1),Y,Airservices ERSA FAC YPDN eff 03 SEP 2026
+111,RAAF APPR EAST,305.500,AM,simplex,,,DARWIN AIR,Darwin Approach East UHF (retransmits 125.2),Y,Airservices ERSA FAC YPDN eff 03 SEP 2026
+112,RAAF DEPARTURE,325.400,AM,simplex,,,DARWIN AIR,Darwin Approach/Departures UHF (retransmits 123.0),Y,Airservices ERSA FAC YPDN eff 03 SEP 2026
+113,RAAF APPR WEST,363.800,AM,simplex,,,DARWIN AIR,Darwin Approach West UHF (retransmits 134.1),Y,Airservices ERSA FAC YPDN eff 03 SEP 2026
+114,EMKAYTEE,127.100,AM,simplex,,,DARWIN AIR,Emkaytee CTAF,Y,Airservices ERSA FAC YMKT eff 03 SEP 2026
+115,BATHURST ISLAND,126.500,AM,simplex,,,DARWIN AIR,Bathurst Island CTAF (AFRU),Y,Airservices ERSA FAC YBTI eff 03 SEP 2026
+116,DELISSAVILLE,126.700,AM,simplex,,,DARWIN AIR,Delissaville CTAF,Y,Airservices ERSA FAC YDLV eff 03 SEP 2026
+117,DARWIN TIBA,126.350,AM,simplex,,,DARWIN AIR,Pilot-to-pilot traffic broadcast if ATC is off air,Y,Airservices ERSA FAC YPDN eff 03 SEP 2026
+118,DARWIN FIRE,131.000,AM,simplex,,,DARWIN AIR,"Airport rescue & firefighting, 131.0 H24 (ERSA)",Y,Airservices ERSA FAC YPDN eff 03 SEP 2026
+119,RAAF EMERGENCY,243.000,AM,simplex,,,DARWIN AIR + DARWIN EMERGENCY,"Military air distress (UHF guard), monitored H24",Y,Airservices ERSA FAC YPDN eff 03 SEP 2026
+151,CH06 FRANCES BAY,156.300,FM,simplex,,,DARWIN MARINE,Darwin marine,Y,"Darwin Port Harbour Control VHF table (darwinport.com.au, fetched 2 Nov 2026)"
+152,CH08 TIPPERARY,156.400,FM,simplex,,,DARWIN MARINE,Darwin marine,Y,"Darwin Port Harbour Control VHF table (darwinport.com.au, fetched 2 Nov 2026)"
+153,CH09 DARWIN LNG,156.450,FM,simplex,,,DARWIN MARINE,Darwin marine,Y,"Darwin Port Harbour Control VHF table (darwinport.com.au, fetched 2 Nov 2026)"
+154,CH10 DARWIN PORT,156.500,FM,simplex,,,DARWIN MARINE,Darwin marine,Y,"Darwin Port Harbour Control VHF table (darwinport.com.au, fetched 2 Nov 2026)"
+155,CH11 CULLEN BAY,156.550,FM,simplex,,,DARWIN MARINE,Darwin marine,Y,"Darwin Port Harbour Control VHF table (darwinport.com.au, fetched 2 Nov 2026)"
+156,CH12 DARWIN TUGS,156.600,FM,simplex,,,DARWIN MARINE,Darwin marine,Y,"Darwin Port Harbour Control VHF table (darwinport.com.au, fetched 2 Nov 2026)"
+157,CH13 DARWIN TUGS,156.650,FM,simplex,,,DARWIN MARINE,Tugs (Darwin Port lists Ch 12 and 13 as tugs),Y,"Darwin Port Harbour Control VHF table (darwinport.com.au, fetched 2 Nov 2026)"
+158,CH14 DARWIN NAVY,156.700,FM,simplex,,,DARWIN MARINE,Darwin marine,Y,"Darwin Port Harbour Control VHF table (darwinport.com.au, fetched 2 Nov 2026)"
+159,CH17 HUDSON CK,156.850,FM,simplex,,,DARWIN MARINE,Darwin marine,Y,"Darwin Port Harbour Control VHF table (darwinport.com.au, fetched 2 Nov 2026)"
+160,CH67 WEATHER,156.375,FM,simplex,,,DARWIN MARINE + DARWIN EMERGENCY,"Darwin weather & notices: Harbour Control 07:03/19:03, Coast Radio Darwin 08:03/18:03",Y,"Darwin Port Harbour Control VHF table (darwinport.com.au, fetched 2 Nov 2026) (07:03/19:03); nt.gov.au Coast Radio Darwin (08:03/18:03)"
+161,CH68 BAYVIEW,156.425,FM,simplex,,,DARWIN MARINE,Darwin marine,Y,"Darwin Port Harbour Control VHF table (darwinport.com.au, fetched 2 Nov 2026)"
+162,CH69 DARWIN NAVY,156.475,FM,simplex,,,DARWIN MARINE,Darwin marine,Y,"Darwin Port Harbour Control VHF table (darwinport.com.au, fetched 2 Nov 2026)"
+163,CH71 FISHING,156.575,FM,simplex,,,DARWIN MARINE,Darwin marine,Y,ACMA VHF maritime mobile band channel allocations (Ch71 professional fishing)
+164,CH72 CUSTOMS,156.625,FM,simplex,,,DARWIN MARINE,Darwin marine,Y,"Darwin Port Harbour Control VHF table (darwinport.com.au, fetched 2 Nov 2026)"
+165,CH73 YACHT RACES,156.675,FM,simplex,,,DARWIN MARINE,Darwin marine,Y,"Darwin Port Harbour Control VHF table (darwinport.com.au, fetched 2 Nov 2026)"
+166,CH74 SUPPLY BASE,156.725,FM,simplex,,,DARWIN MARINE,Darwin marine,Y,"Darwin Port Harbour Control VHF table (darwinport.com.au, fetched 2 Nov 2026)"
+167,CH77 FISH/SHIPS,156.875,FM,simplex,,,DARWIN MARINE,Darwin marine,Y,ACMA VHF maritime mobile band channel allocations (Ch77 fishing/non-commercial ship-ship)
+168,CH88 INPEX LNG,157.425,FM,simplex,,,DARWIN MARINE,Darwin marine,Y,"Darwin Port Harbour Control VHF table (darwinport.com.au, fetched 2 Nov 2026)"
+201,BRIS ATIS,125.500,AM,simplex,,,BRISBANE AIR,ATIS,Y,Airservices ERSA FAC YBBN eff 03 SEP 2026
+202,BRIS DELIVERY,118.850,AM,simplex,,,BRISBANE AIR,Clearances,Y,Airservices ERSA FAC YBBN eff 03 SEP 2026
+203,BRIS GROUND,121.700,AM,simplex,,,BRISBANE AIR,"Ground, domestic",Y,Airservices ERSA FAC YBBN eff 03 SEP 2026
+204,BRIS GROUND N,124.050,AM,simplex,,,BRISBANE AIR,Ground north,Y,Airservices ERSA FAC YBBN eff 03 SEP 2026
+205,BRIS GROUND S,122.250,AM,simplex,,,BRISBANE AIR,Ground south,Y,Airservices ERSA FAC YBBN eff 03 SEP 2026
+206,BRIS TOWER WEST,118.000,AM,simplex,,,BRISBANE AIR,"Tower, new runway 01L/19R",Y,Airservices ERSA FAC YBBN eff 03 SEP 2026
+207,BRIS TOWER EAST,120.500,AM,simplex,,,BRISBANE AIR,"Tower, runway 01R/19L",Y,Airservices ERSA FAC YBBN eff 03 SEP 2026
+208,BRIS FINALS,119.250,AM,simplex,,,BRISBANE AIR,Final approach,Y,Airservices ERSA FAC YBBN eff 03 SEP 2026
+209,BRIS APPROACH NW,124.700,AM,simplex,,,BRISBANE AIR,Approach NW,Y,Airservices ERSA FAC YBBN eff 03 SEP 2026
+210,BRIS APPROACH SE,125.600,AM,simplex,,,BRISBANE AIR,Approach SE,Y,Airservices ERSA FAC YBBN eff 03 SEP 2026
+211,GOLD COAST APPR,123.500,AM,simplex,,,BRISBANE AIR,"Approach/departures, Gold Coast",Y,Airservices ERSA FAC YBBN eff 03 SEP 2026
+212,BRIS DEPART NW,133.450,AM,simplex,,,BRISBANE AIR,Departures NW,Y,Airservices ERSA FAC YBBN eff 03 SEP 2026
+213,BRIS DEPART SE,118.450,AM,simplex,,,BRISBANE AIR,Departures SE,Y,Airservices ERSA FAC YBBN eff 03 SEP 2026
+214,BRIS CENTRE 1,121.200,AM,simplex,,,BRISBANE AIR,Brisbane Centre,Y,Airservices ERSA FAC YBBN eff 03 SEP 2026
+215,BRIS CENTRE 2,125.700,AM,simplex,,,BRISBANE AIR,Brisbane Centre,Y,Airservices ERSA FAC YBBN eff 03 SEP 2026
+216,ARCHERFIELD ATIS,120.900,AM,simplex,,,BRISBANE AIR,Archerfield ATIS,Y,Airservices ERSA FAC YBAF eff 03 SEP 2026
+217,ARCHERFIELD TWR,118.100,AM,simplex,,,BRISBANE AIR,Archerfield Tower,Y,Airservices ERSA FAC YBAF eff 03 SEP 2026
+218,ARCHERFIELD TWR2,123.600,AM,simplex,,,BRISBANE AIR,Archerfield Tower 2,Y,Airservices ERSA FAC YBAF eff 03 SEP 2026
+219,ARCHERFIELD GND,119.900,AM,simplex,,,BRISBANE AIR,Archerfield Ground,Y,Airservices ERSA FAC YBAF eff 03 SEP 2026
+251,CH12 BRIS PORT,156.600,FM,simplex,,,BRISBANE MARINE,Brisbane port control (VTS),Y,MSQ Brisbane Port Procedures Oct 2024 + msq.qld.gov.au VTS page
+252,CH20 TANGALOOMA,161.600,FM,simplex,,,BRISBANE MARINE,"Repeater, northern Moreton Bay",N,sequestradio.org (club site only)
+253,CH21 RESCUE RPT,161.650,FM,simplex,,,BRISBANE MARINE,Repeater monitored by Marine Rescue Sandgate,Y,mrq.qld.gov.au MRQ Sandgate
+254,CH67 RESCUE,156.375,FM,simplex,,,BRISBANE MARINE,Marine Rescue QLD,Y,mrq.qld.gov.au MRQ Sandgate
+255,CH73 RESCUE 2,156.675,FM,simplex,,,BRISBANE MARINE,Marine Rescue QLD,Y,mrq.qld.gov.au MRQ Sandgate
+256,CH81 MORETON RPT,161.675,FM,simplex,,,BRISBANE MARINE,Moreton Bay repeater,Y,mrq.qld.gov.au MRQ Sandgate
+257,CH82 GOLD COAST,161.725,FM,simplex,,,BRISBANE MARINE,"MRQ Jacobs Well log-on channel, southern Moreton Bay/Gold Coast",Y,"mrq.qld.gov.au MRQ Jacobs Well (log on Ch 82, fetched 2 Nov 2026)"
+291,HAM BRIS COOT 2M,146.650,FM,-,0.600,91.5,HAM BRISBANE,VK4RMC Mt Coot-tha,Y,WIA Repeater Directory 260705 (5 Jul 2026)
+292,HAM BRIS COTTON,146.875,FM,-,0.600,91.5,HAM BRISBANE,"VK4RDB Mt Cotton, Brisbane south",Y,WIA Repeater Directory 260705 (5 Jul 2026)
+293,HAM BRIS GRAVATT,147.950,FM,-,0.600,,HAM BRISBANE,VK4RBR Mt Gravatt,Y,WIA Repeater Directory 260705 (5 Jul 2026)
+294,HAM BRIS WICEN,147.150,FM,+,0.600,,HAM BRISBANE,"VK4RAG Black Mtn, Brisbane WICEN",Y,WIA Repeater Directory 260705 (5 Jul 2026)
+295,HAM GOLD COAST,146.700,FM,-,0.600,123.0,HAM BRISBANE,"VK4RGC Springbrook 1010 m, WIA broadcast",Y,WIA Repeater Directory 260705 (5 Jul 2026)
+296,HAM BRIS COOT 70,438.200,FM,-,7.000,91.5,HAM BRISBANE,VK4RZB Mt Coot-tha 70 cm,Y,WIA Repeater Directory 260705 (5 Jul 2026)
+297,HAM BRIS GRAV 70,438.275,FM,-,7.000,,HAM BRISBANE,VK4RBR Mt Gravatt 70 cm,Y,WIA Repeater Directory 260705 (5 Jul 2026)
+301,MELB ATIS,118.000,AM,simplex,,,MELBOURNE AIR,ATIS,Y,Airservices ERSA FAC YMML eff 03 SEP 2026
+302,MELB DELIVERY,127.200,AM,simplex,,,MELBOURNE AIR,Clearances,Y,Airservices ERSA FAC YMML eff 03 SEP 2026
+303,MELB GROUND,121.700,AM,simplex,,,MELBOURNE AIR,Ground,Y,Airservices ERSA FAC YMML eff 03 SEP 2026
+304,MELB TOWER,120.500,AM,simplex,,,MELBOURNE AIR,Tower,Y,Airservices ERSA FAC YMML eff 03 SEP 2026
+305,MELB APPROACH,132.000,AM,simplex,,,MELBOURNE AIR,Approach,Y,Airservices ERSA FAC YMML eff 03 SEP 2026
+306,MELB DEPARTURE N,118.900,AM,simplex,,,MELBOURNE AIR,Departures north,Y,Airservices ERSA FAC YMML eff 03 SEP 2026
+307,MELB DEPARTURE S,129.400,AM,simplex,,,MELBOURNE AIR,Departures south,Y,Airservices ERSA FAC YMML eff 03 SEP 2026
+308,MELB CENTRE,135.700,AM,simplex,,,MELBOURNE AIR,Melbourne Centre,Y,Airservices ERSA FAC YMMB eff 03 SEP 2026
+309,ESSENDON ATIS,119.800,AM,simplex,,,MELBOURNE AIR,Essendon,Y,Airservices ERSA FAC YMEN eff 03 SEP 2026
+310,ESSENDON TOWER,125.100,AM,simplex,,,MELBOURNE AIR,Essendon,Y,Airservices ERSA FAC YMEN eff 03 SEP 2026
+311,ESSENDON GROUND,121.900,AM,simplex,,,MELBOURNE AIR,Essendon,Y,Airservices ERSA FAC YMEN eff 03 SEP 2026
+312,MOORABBIN ATIS,120.900,AM,simplex,,,MELBOURNE AIR,Moorabbin,Y,Airservices ERSA FAC YMMB eff 03 SEP 2026
+313,MOORABBIN TOWER,118.100,AM,simplex,,,MELBOURNE AIR,Moorabbin,Y,Airservices ERSA FAC YMMB eff 03 SEP 2026
+314,MOORABBIN TOWER2,123.000,AM,simplex,,,MELBOURNE AIR,Moorabbin,Y,Airservices ERSA FAC YMMB eff 03 SEP 2026
+315,MOORABBIN GROUND,134.250,AM,simplex,,,MELBOURNE AIR,Moorabbin,Y,Airservices ERSA FAC YMMB eff 03 SEP 2026
+351,CH06 MELB PORT 2,156.300,FM,simplex,,,MELBOURNE MARINE,Port operations,Y,Ports Victoria Port Information Guide 6th ed Dec 2025
+352,CH09 MELB PILOTS,156.450,FM,simplex,,,MELBOURNE MARINE,Port Phillip Sea Pilots,Y,Ports Victoria Port Information Guide 6th ed Dec 2025
+353,CH10 PILOTS 2,156.500,FM,simplex,,,MELBOURNE MARINE,Auriga Pilots,Y,Ports Victoria Port Information Guide 6th ed Dec 2025
+354,CH12 MELB PORT,156.600,FM,simplex,,,MELBOURNE MARINE,Melbourne port control (VTS),Y,Ports Victoria Port Information Guide 6th ed Dec 2025
+355,CH13 PILOTS 3,156.650,FM,simplex,,,MELBOURNE MARINE,Poseidon Sea Pilots,Y,Ports Victoria Port Information Guide 6th ed Dec 2025
+356,CH14 WESTERNPORT,156.700,FM,simplex,,,MELBOURNE MARINE,Hastings port control,Y,Port Phillip Sea Pilots guide Oct 2023 (Hastings VTS)
+357,CH67 VIC WEATHER,156.375,FM,simplex,,,MELBOURNE MARINE,Forecasts ~06:48 and 18:48 Melbourne time,Y,Ports Victoria Port Information Guide 6th ed Dec 2025
+391,HAM MELB FERNY,146.700,FM,-,0.600,91.5,HAM MELBOURNE,"VK3RML Ferny Creek, WIA broadcast",Y,WIA Repeater Directory 260705 (5 Jul 2026)
+392,HAM KINGLAKE VIC,146.850,FM,-,0.600,91.5,HAM MELBOURNE,"VK3RMN Kinglake, Melbourne north",Y,WIA Repeater Directory 260705 (5 Jul 2026)
+393,HAM MELB OLINDA,147.175,FM,+,0.600,91.5,HAM MELBOURNE,"VK3REC Olinda, WIA broadcast",Y,WIA Repeater Directory 260705 (5 Jul 2026)
+394,HAM MELB ST LEON,147.375,FM,+,0.600,91.5,HAM MELBOURNE,VK3RMU Mt St Leonard 1028 m,Y,WIA Repeater Directory 260705 (5 Jul 2026)
+395,HAM MELB WICEN,147.250,FM,+,0.600,,HAM MELBOURNE,"VK3RMM Mt Macedon, Melbourne WICEN",Y,WIA Repeater Directory 260705 (5 Jul 2026)
+396,HAM MELB CITY 70,438.025,FM,-,5.000,91.5,HAM MELBOURNE,VK3RCC Melbourne city 70 cm,Y,WIA Repeater Directory 260705 (5 Jul 2026)
+397,HAM MELB LEON 70,439.800,FM,-,5.000,,HAM MELBOURNE,"VK3RMU Mt St Leonard 70 cm, WIA broadcast",Y,WIA Repeater Directory 260705 (5 Jul 2026)
+401,NELSON ATIS,129.100,AM,simplex,,,NELSON AIR,Nelson NZ (current NZ AIP not checked),N,AIP NZ chart extracts 2018-19 + pilots.nz (Sep 2026); aip.net.nz returned HTTP 500 on 2 Nov 2026
+402,NELSON DELIVERY,123.300,AM,simplex,,,NELSON AIR,Nelson NZ (current NZ AIP not checked),N,AIP NZ chart extracts 2018-19 + pilots.nz (Sep 2026); aip.net.nz returned HTTP 500 on 2 Nov 2026
+403,NELSON TOWER,127.400,AM,simplex,,,NELSON AIR,Nelson NZ (current NZ AIP not checked),N,AIP NZ chart extracts 2018-19 + pilots.nz (Sep 2026); aip.net.nz returned HTTP 500 on 2 Nov 2026
+404,CHRISTCHURCH CTL,123.700,AM,simplex,,,NELSON AIR,Nelson NZ (current NZ AIP not checked),N,AIP NZ chart extracts 2018-19 + pilots.nz (Sep 2026); aip.net.nz returned HTTP 500 on 2 Nov 2026
+451,CH12 NELSON PORT,156.600,FM,simplex,,,NELSON MARINE,Nelson Harbour Radio,Y,Port Nelson Passage Plan v3 Mar 2025
+452,CH67 NZ RADIO 1,156.375,FM,simplex,,,NELSON MARINE,"Maritime Radio (D'Urville), weather broadcasts",Y,Maritime NZ Radio Handbook May 2025
+453,CH68 NZ RADIO 2,156.425,FM,simplex,,,NELSON MARINE,"Maritime Radio (Farewell/Picton), weather broadcasts",Y,Maritime NZ Radio Handbook May 2025
+454,CH79 LIVE WIND,156.975,FM,simplex,,,NELSON MARINE,Coastguard continuous wind/weather,Y,Coastguard NZ Nowcasting map Oct 2024
+491,HAM NELSON CITY,147.025,FM,+,0.600,,HAM NELSON,"ZL2BCA Grampians, Nelson city",Y,"map.vhf.nz NZ amateur repeater licences (RSM register, updated 29/10/2026)"
+492,HAM SADDLE HILL,147.200,FM,+,0.600,,HAM NELSON,"Nelson 720, Saddle Hill 1214 m, wide area",Y,"map.vhf.nz NZ amateur repeater licences (RSM register, updated 29/10/2026)"
+493,HAM MOTUEKA,146.700,FM,-,0.600,,HAM NELSON,"Motueka 670, Mt Campbell",Y,"map.vhf.nz NZ amateur repeater licences (RSM register, updated 29/10/2026)"
+494,HAM GOLDEN BAY,147.375,FM,+,0.600,71.9,HAM NELSON,"Takaka Hill, linked to Blenheim/Picton",Y,"map.vhf.nz NZ amateur repeater licences (RSM register, updated 29/10/2026)"
+495,HAM NELSON 70CM,434.800,FM,+,5.000,,HAM NELSON,Saddle Hill National System 70 cm,Y,"map.vhf.nz NZ amateur repeater licences (RSM register, updated 29/10/2026)"
+501,SING ATIS DEPART,128.600,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSS eff 29 OCT 2026
+502,SING ATIS ARRIVE,128.025,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSS eff 29 OCT 2026
+503,SING DELIVERY,121.650,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSS eff 29 OCT 2026
+504,SING APRON,121.900,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSS eff 29 OCT 2026
+505,SING GROUND 1,124.300,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSS eff 29 OCT 2026
+506,SING GROUND 2,121.725,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSS eff 29 OCT 2026
+507,SING GROUND 3,121.850,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSS eff 29 OCT 2026
+508,SING GROUND 4,122.550,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSS eff 29 OCT 2026
+509,SING GROUND 5,125.650,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSS eff 29 OCT 2026
+510,SING GROUND 6,127.275,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSS eff 29 OCT 2026
+511,SING TOWER WEST,118.600,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSS eff 29 OCT 2026
+512,SING TOWER MID,118.250,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSS eff 29 OCT 2026
+513,SING TOWER EAST,131.400,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSS eff 29 OCT 2026
+514,SING ARRIVALS,119.300,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSS eff 29 OCT 2026
+515,SING APPROACH,124.050,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSS eff 29 OCT 2026
+516,SING DEPARTURES,120.300,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSS eff 29 OCT 2026
+517,SELETAR ATIS,128.425,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSL eff 29 OCT 2026
+518,SELETAR TOWER,118.450,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSL eff 29 OCT 2026
+519,SELETAR GROUND,121.600,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSL eff 29 OCT 2026
+520,SELETAR APPROACH,126.025,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSL eff 29 OCT 2026
+521,SELETAR MIL TWR,270.400,AM,simplex,,,SINGAPORE AIR,Singapore Changi / Seletar,Y,CAAS Singapore eAIP AD 2.18 WSSL eff 29 OCT 2026
+551,CH05 KEPPEL,160.850,FM,simplex,,,SINGAPORE MARINE,Keppel/cruise bay control,Y,MPA Singapore VHF table / STRAITREP page (fetched 2 Nov 2026)
+552,CH09 PORT OPS,156.450,FM,simplex,,,SINGAPORE MARINE,"Port operations, safety broadcasts",Y,MPA Singapore VHF table / STRAITREP page (fetched 2 Nov 2026)
+553,CH10 STRAIT EAST,156.500,FM,simplex,,,SINGAPORE MARINE,"Strait traffic, east sector",Y,MPA Singapore VHF table / STRAITREP page (fetched 2 Nov 2026)
+554,CH12 PORT EAST,156.600,FM,simplex,,,SINGAPORE MARINE,Port control east,Y,MPA Singapore VHF table / STRAITREP page (fetched 2 Nov 2026)
+555,CH14 STRAIT MID,156.700,FM,simplex,,,SINGAPORE MARINE,"Strait traffic, central sector",Y,MPA Singapore VHF table / STRAITREP page (fetched 2 Nov 2026)
+556,CH17 SING TUGS,156.850,FM,simplex,,,SINGAPORE MARINE,Tugs and water boats,Y,MPA Singapore VHF table / STRAITREP page (fetched 2 Nov 2026)
+557,CH18 CONTAINERS,161.500,FM,simplex,,,SINGAPORE MARINE,Pasir Panjang container port,Y,MPA Singapore VHF table / STRAITREP page (fetched 2 Nov 2026)
+558,CH20 SING PILOTS,161.600,FM,simplex,,,SINGAPORE MARINE,Pilots,Y,MPA Singapore VHF table / STRAITREP page (fetched 2 Nov 2026)
+559,CH21 SEMBAWANG,161.650,FM,simplex,,,SINGAPORE MARINE,Sembawang control,Y,MPA Singapore VHF table / STRAITREP page (fetched 2 Nov 2026)
+560,CH22 JURONG,161.700,FM,simplex,,,SINGAPORE MARINE,Jurong control,Y,MPA Singapore VHF table / STRAITREP page (fetched 2 Nov 2026)
+561,CH68 PORT WEST,156.425,FM,simplex,,,SINGAPORE MARINE,Port control west,Y,MPA Singapore VHF table / STRAITREP page (fetched 2 Nov 2026)
+562,CH73 STRAIT WEST,156.675,FM,simplex,,,SINGAPORE MARINE,"Strait traffic, west sector",Y,MPA Singapore VHF table / STRAITREP page (fetched 2 Nov 2026)
+563,CH74 IMMIGRATION,156.725,FM,simplex,,,SINGAPORE MARINE,Immigration clearance,Y,MPA Singapore VHF table / STRAITREP page (fetched 2 Nov 2026)
+591,HAM SING WEST 2M,145.625,FM,-,0.600,156.7,HAM SINGAPORE,"9V1RS SARTS VHF (west), linked to 9V1RMP",Y,SARTS sarts.org.sg repeater page (fetched 2 Nov 2026)
+592,HAM SING EAST 70,438.425,FM,-,5.000,156.7,HAM SINGAPORE,"9V1RMP SARTS UHF (east), Sunday net 16:00 SGT",Y,SARTS sarts.org.sg repeater page (fetched 2 Nov 2026)
+601,HAM DARWIN CITY,147.000,FM (AMS),-,0.600,123.0,HAM DARWIN,"VK8RTE repeater (CDU, city), carries WIA weekly broadcast",Y,Darwin ARC vk8da.au repeaters page (fetched 2 Nov 2026); WIA Repeater Directory 260705 (5 Jul 2026)
+602,HAM CASUARINA,146.950,FM (AMS),-,0.600,123.0,HAM DARWIN,"VK8RPD repeater, northern suburbs",Y,Darwin ARC vk8da.au repeaters page (fetched 2 Nov 2026); WIA Repeater Directory 260705 (5 Jul 2026)
+603,HAM DARWIN 70CM,438.100,FM,simplex,,,HAM DARWIN,"VK8RTE 70 cm (D-STAR/FM, 'testing'); receive only: input listed as 431.100 (DARC) vs 431.800 (WIA)",Y,Darwin ARC vk8da.au repeaters page (fetched 2 Nov 2026); WIA Repeater Directory 260705 (5 Jul 2026); RepeaterBook 2026-06-27
+604,HAM WAGAIT BEACH,147.375,FM (AMS),-,1.600,123.0,HAM DARWIN,VK8RZZ Fusion repeater; input 145.775,Y,WIA Repeater Directory 260705 (5 Jul 2026) (status O)
+605,HAM CALLING,146.500,FM,simplex,,,HAM DARWIN,National 2 m calling channel,Y,WIA 2 m band plan
+606,HAM WICEN DARWIN,146.800,FM,-,0.600,123.0,HAM DARWIN + DARWIN EMERGENCY,"VK8RWI WICEN NT emergency-comms repeater, Karama",Y,"WIA Repeater Directory 260705 (5 Jul 2026) (licensed, LN) + vk8da.com + RepeaterBook on-air 2026-08-20"
+611,ISS VOICE,145.800,FM,simplex,,,SPACE + APRS,"Space station voice, only during passes",Y,ARISS
+612,ISS DATA,145.825,FM,simplex,,,SPACE + APRS,Space station packet bursts,Y,ARISS
+613,APRS DATA,145.175,FM,simplex,,,SPACE + APRS,Australian APRS data bursts,Y,WIA 2 m band plan
+614,SO-50 SATELLITE,436.795,FM,simplex,,,SPACE + APRS,"FM satellite downlink, passes only (Doppler +/-10 kHz)",Y,AMSAT FM satellite summary (updated 31 Oct 2026) + AMSAT live status (2 Nov 2026)
+615,AO-123 SATELLITE,435.400,FM,simplex,,,SPACE + APRS,"FM satellite downlink, passes only",Y,AMSAT FM satellite summary (updated 31 Oct 2026) + AMSAT live status (2 Nov 2026)
+616,IO-86 SATELLITE,435.880,FM,simplex,,,SPACE + APRS,"Low-inclination FM satellite, many Darwin passes",Y,AMSAT FM satellite summary (updated 31 Oct 2026) + AMSAT live status (2 Nov 2026)
+617,ISS REPEATER,437.800,FM,simplex,,,SPACE + APRS,ISS cross-band FM repeater downlink,Y,AMSAT FM satellite summary (updated 31 Oct 2026) + AMSAT live status (2 Nov 2026)
+618,AO-91 SATELLITE,145.960,FM,simplex,,,SPACE + APRS,"FM satellite downlink, sunlit passes only, intermittent",Y,AMSAT FM satellite summary (updated 31 Oct 2026) + AMSAT live status (2 Nov 2026)
+701,CB 1 DARWIN RPT,476.425,FM,simplex,,,UHF CB,UHF CB repeater output ch 1 (Darwin repeater listed by VKHam),N,ACMA CB class licence (upd 1 Oct 2025); ch freq = 476.400+0.025*n; VKHam list via search only
+702,CB 2 DARWIN RPT,476.450,FM,simplex,,,UHF CB,UHF CB repeater output ch 2 (Darwin CBD repeater listed by VKHam),N,ACMA CB class licence (upd 1 Oct 2025); ch freq = 476.400+0.025*n; VKHam list via search only
+705,CB 5 EMERGENCY,476.525,FM,simplex,,,UHF CB + DARWIN EMERGENCY,UHF CB channel 5,Y,ACMA CB class licence (upd 1 Oct 2025); ch freq = 476.400+0.025*n
+710,CB 10 4WD CLUBS,476.650,FM,simplex,,,UHF CB,"UHF CB ch 10 (4WD clubs by convention, Radio Rescue)",Y,ACMA CB class licence (upd 1 Oct 2025); ch freq = 476.400+0.025*n
+711,CB 11 CALLING,476.675,FM,simplex,,,UHF CB,UHF CB channel 11,Y,ACMA CB class licence (upd 1 Oct 2025); ch freq = 476.400+0.025*n
+718,CB 18 CARAVANS,476.850,FM,simplex,,,UHF CB,UHF CB channel 18,Y,ACMA CB class licence (upd 1 Oct 2025); ch freq = 476.400+0.025*n
+735,CB 35 EMERGENCY,477.275,FM,simplex,,,UHF CB + DARWIN EMERGENCY,UHF CB channel 35,Y,ACMA CB class licence (upd 1 Oct 2025); ch freq = 476.400+0.025*n
+740,CB 40 HIGHWAY,477.400,FM,simplex,,,UHF CB,UHF CB channel 40,Y,ACMA CB class licence (upd 1 Oct 2025); ch freq = 476.400+0.025*n
